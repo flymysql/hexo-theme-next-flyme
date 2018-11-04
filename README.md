@@ -7,14 +7,10 @@
 ![](show4.png)
 
 使用方法
+https://github.com/flymysql/hexo-theme-next-flyme
 
-- 一种是直接下载样式表，然后复制到自己主题的themes\next\source\css\_custom目录下的custom.styl文件
+- 直接下载[样式表](https://github.com/flymysql/hexo-theme-next-flyme)，然后复制到自己主题的themes\next\source\css\_custom目录下的custom.styl文件
 
-- 另一种是直接添加link链接
-
-```java
-<link rel="stylesheet" type="text/css" href="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/custom.css">
-```
 
 ![](show1.png)
 
@@ -27,7 +23,6 @@
 > 当然前提是你使用的是nexo主题，并且我使用的是next里的mist子主题，其他主题可能不兼容
 
 ### 下面是关于next的readme官方文档
-
 
 
 <p align="right"><a title="New «NexT» 6.0.0 version [Reloaded]" href="https://github.com/theme-next/hexo-theme-next">NexT v6.0.0 here :triangular_flag_on_post:</a></p>
